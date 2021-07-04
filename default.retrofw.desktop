@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tamagochi
+Type=Application
+Exec=tam.sh
+Icon=tam
+Comment=Tamagochi
+Terminal=false
+Categories=games;
